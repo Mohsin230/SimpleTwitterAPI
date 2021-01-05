@@ -1,0 +1,83 @@
+,Date,Tweet_ID,Message
+0,2021-01-04 17:30:00,1346146877851504640,The SoulCalibur VI Monthly Finals are live now. Who will slay the competition?: https://t.co/nxpASKCVvY https://t.co/yCOIBNg8uO
+1,2021-01-03 16:30:02,1345769400583024640,Last chance to claim December's PlayStation Plus lineup! Get 'em here before they're gone: https://t.co/10OSA89gaN https://t.co/ttGa4BK4YE
+2,2021-01-03 00:52:33,1345533473675567105,But did you see us 🏈 https://t.co/rZfYobgX5H
+3,2021-01-03 00:39:59,1345530308750237699,"RT @Fiesta_Bowl: Congratulations to @CycloneFB, your 2021 @PlayStation #FiestaBowl Champions! 🎮🏈🏆 https://t.co/TDei6hYlsb"
+4,2021-01-02 21:37:36,1345484411265925121,"🦆 Here's to a great game! 🌪️
+
+#GoDucks #cyclONEnation https://t.co/jhFhwjk5mV"
+5,2021-01-02 18:00:00,1345429651825463297,"What’s most important? 
+🧶Save the sack-folk.
+♞Fulfil your destiny.
+👗Dress to impress. 
+🥇Enjoy some friendly platfor… https://t.co/LJSAd1zIuY"
+6,2021-01-01 16:30:03,1345044628156928002,What's the first game you're playing in 2021?
+7,2021-01-01 05:00:40,1344871138690785286,"To Grumpuses everywhere, Happy New Year from PlayStation 💙🎉 https://t.co/hrXLu733js"
+8,2021-01-01 00:21:11,1344800804524486657,Activision’s sick combo of incredible remakes continues. THPS 1 + 2 lands the Platinum Trophy Best Sports Game in 2… https://t.co/e47dXNRcs5
+9,2020-12-31 21:00:15,1344750238893010954,The future's looking bright with these New Years wishes from Asobi Team. Happy New Year! See more holiday greetings… https://t.co/VJLVsSpv00
+10,2020-12-31 17:19:11,1344694603186892800,Call of Duty: Warzone’s top-tier FPS gameplay + battle royale formula earns it the Platinum Trophy for Best Multipl… https://t.co/A4lxBXNdd4
+11,2020-12-31 16:11:13,1344677499150675968,Don't try this at home ☕🙃 https://t.co/ra9Ede0JTv
+12,2020-12-31 14:29:00,1344651775148654593,"A colorful open world, inventive puzzles, and legendary storytelling make Immortals Fenyx Rising a legendary Editor… https://t.co/taCQUNHzp0"
+13,2020-12-31 13:02:04,1344629897268965376,Devs love playing games when they’re not busy making them. Some of your favorite devs share their most beloved game… https://t.co/FUeu5qT6ZW
+14,2020-12-31 04:23:01,1344499274160238592,"With those boisterous bots invading your controller, it’s probably no surprise that Astro’s Playroom takes home the… https://t.co/UNQEXYcVGd"
+15,2020-12-31 03:12:01,1344481409457479680,"With over 2.5 million votes across more than 15 categories, this was PS Blog's biggest Game of the Year celebration… https://t.co/6Ws44emabE"
+16,2020-12-30 21:30:04,1344395351625764866,"“Honor died on the beach.” 
+- Jin Sakai, Ghost of Tsushima
+
+#GameQuotes2020 https://t.co/j6cnF5DIm5"
+17,2020-12-30 18:00:01,1344342490845908992,The blighted world and soul-starved monstrosities of Demon's Souls await. Learn more about these Boletarian horrors… https://t.co/e3QmqYgddZ
+18,2020-12-30 17:30:25,1344335041434943491,"🌚 The anime fighting sensation Under Night In Birth Exe:Late[cl-r] is about to crown their final 2020 champions. 
+🌞… https://t.co/trd1x6qJES"
+19,2020-12-30 16:30:29,1344319959766343681,"Maneater (PS5 version), Shadow of the Tomb Raider, and Greedfall are your PlayStation Plus games for January. Full… https://t.co/veiuudKq6H"
+20,2020-12-30 16:30:00,1344319838576123905,Are you basking in the beauty of winter or banishing the cold back to Jötunheimr? https://t.co/cdhp9qTgH1
+21,2020-12-30 15:10:00,1344299705505730560,"Hunter, draw your bow and cleanse a land gripped by darkness. The Pathless steps into Editors’ Choice with an eagle… https://t.co/Cn6hjKLEfe"
+22,2020-12-29 23:22:03,1344061147813736448,From lost glory in Demon’s Souls to Fall Guys victories — game developers share memorable Photo Mode favorites from… https://t.co/xLOMnVh7v3
+23,2020-12-29 22:41:37,1344050970888585216,RT @Fiesta_Bowl: Who will you be cheering for during the @PlayStation #FiestaBowl: @oregonfootball or @CycloneFB? #poll
+24,2020-12-29 21:12:03,1344028431995047936,"From an unstoppable bio-weapon to a ruthless conqueror, players confronted some iconic villains in 2020. A look bac… https://t.co/7CJYeLZIet"
+25,2020-12-29 18:00:22,1343980191551549441,"""There is only one dominant life form in this universe and it carries a steel-barreled sword of vengeance.""
+- Dr. E… https://t.co/z9nB5Asiip"
+26,2020-12-29 17:30:28,1343972668933103618,"⚽️🎄💰 Who will net a big holiday bonus?
+📢 Join @BSmith_Esports and @Rbuckley98 to see who scores the title of FIFA 2… https://t.co/sGw7O9ulFN"
+27,2020-12-29 16:16:13,1343953983723847685,There's still time 🥣😋 Grab specially-marked Big G cereals for a chance to win a PS5 and other PlayStation prizes.… https://t.co/KDALlnoNLK
+28,2020-12-29 14:34:00,1343928257624723456,The unlikely heroes and outrageous moments of Yakuza: Like A Dragon propel it into our Editors' Choice lineup. More… https://t.co/0o9yLIi5li
+29,2020-12-28 22:30:04,1343685675720339456,The team at @SuckerPunchProd wishes everyone a happy holiday season. See the full card gallery:… https://t.co/mWtH49kOcb
+30,2020-12-28 21:00:08,1343663044413579270,"""I smell the stink of a dozen kingdoms in your beard.""
+- Eivor, Assassin's Creed Valhalla 
+
+#GameQuotes2020 https://t.co/gt88gXXesf"
+31,2020-12-28 20:10:02,1343650436360904705,"The breathtaking forests, towering pagodas and sweeping vistas of Ghost of Tsushima helped the epic adventure win t… https://t.co/jiVFmakByk"
+32,2020-12-28 18:00:01,1343617714515030016,"Enter the world of Godfall to earn lavish loot and wield fantastical weapons, all while looking like royalty:… https://t.co/Fqu03y8oBo"
+33,2020-12-28 17:30:29,1343610286222307328,Snazz up your holidays with the final BlazBlue: Cross Tag Battle tournament of the year. Find out who will play nau… https://t.co/IJArvqbhDx
+34,2020-12-28 16:17:00,1343591790436347909,"Brave soul, who fears not death... vanquish the horrors of Demon's Souls. The entrancing quest joins the Editors' C… https://t.co/OVKcYIoNiY"
+35,2020-12-28 13:01:04,1343542483502985216,"Developers can be shutterbugs, too 🐞📸 Industry friends share their favorite Photo Mode pics from 2020:… https://t.co/zkFeGM7ixg"
+36,2020-12-27 23:45:05,1343342168199598081,"Beans, bugs(nax) and worms top this year’s Best Independent Game category, with PS Blog readers awarding the top ho… https://t.co/As5DEix3Da"
+37,2020-12-27 22:30:01,1343323277251522566,"Tyrell Patrick: “Leave this mess to him. He’s a professional.”
+
+𝗝𝗶𝗹𝗹 𝗩𝗮𝗹𝗲𝗻𝘁𝗶𝗻𝗲: “𝗦𝗼 𝗮𝗺 𝗜.” 
+- Resident Evil 3 #GameQuotes2020"
+38,2020-12-27 20:14:03,1343289061084114948,"🦅 Eagle friend
+⛏️ Co-op spelunking
+🤖 Kaiju combat
+🔎 Puzzle rooms
+
+Discover hidden gems and other gaming highlights… https://t.co/hfcWDJVRba"
+39,2020-12-27 17:30:00,1343247774028972032,"⚔️ Two Mortal Kombat 11 Ultimate Monthly Finals
+🏆 One Winner from Europe and North America
+🎮 Zero Mortal Kombat 11… https://t.co/ax22wiEAlc"
+40,2020-12-27 15:45:00,1343221349549043712,"Combined with its innovative DualSense controller haptics and triggers, Astro’s Playroom handily earns Editors' Cho… https://t.co/g6pI7XhZfo"
+41,2020-12-26 23:00:04,1342968451187535873,Which shot nets you the most goals in FIFA 21? https://t.co/PBlbXBjX3b https://t.co/8PTejW7SuM
+42,2020-12-26 20:00:01,1342923138552586240,"🎵 “Yeah, I tessellate and animate these dancing sprites and sunlit skies for you.
+🎵 I do it for you.
+🎵 I’m your GPU… https://t.co/9DC39qYGBo"
+43,2020-12-26 18:06:02,1342894454760497152,"What was your Game of the Year?
+
+See how readers voted in PS Blog's annual GOTY awards: https://t.co/DXFBMFpjEu https://t.co/pOjLHahQmc"
+44,2020-12-26 17:08:00,1342879849598238720,"Naughty Dog weaves a haunting tale of anger and forgiveness, making Ellie’s unforgettable journey for revenge an Ed… https://t.co/EFKcvOsZhR"
+45,2020-12-25 20:00:13,1342560800397934593,Season's greetings from https://t.co/6rfZPfginF and gaming industry friends around the world:… https://t.co/GMEumNxgE7
+46,2020-12-25 18:00:01,1342530554630033409,"Happy Holidays, from one friendly neighborhood to another. https://t.co/LIp4ztYEMy"
+47,2020-12-25 16:30:03,1342507910518206466,"""You have a heart of gold. Don't let them take it from you."" 
+- Stockpile Thomas, Demon's Souls
+
+#GameQuotes2020 https://t.co/R1RxfXqiEp"
+48,2020-12-24 19:41:00,1342193577221361665,We know who's on J. Jonah Jameson's naughty list... #BeGreater #BeYourself https://t.co/tuArEX5Bdo
+49,2020-12-24 17:24:00,1342159100227018753,"Chaotic platforming, inventive levels, and colorfully zany costumes help Fall Guys: Ultimate Knockout take the Edit… https://t.co/YoDc002tiI"
